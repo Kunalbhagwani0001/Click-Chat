@@ -24,12 +24,13 @@
 ---
 
 ## 🏗️ Project Structure
+```
 Click-Chat/
 │
 ├── click backend.7z # Backend source code
 ├── click front end.7z # Frontend source code
 ├── README.md # Project documentation
-
+```
 ---
 
 ## ⚙️ Tech Stack
